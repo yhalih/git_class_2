@@ -1,5 +1,5 @@
 #1
-print(" elephant ")
+print(" Hello Enter your  name: Yhali ")
 
 #2
 print(" Hello Enter your adress: Ramat Hasharon ")
